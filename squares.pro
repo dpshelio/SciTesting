@@ -1,3 +1,4 @@
+
 function overlap, red, blue
   ;+
   ; Return overlap between two rectangles or -1
